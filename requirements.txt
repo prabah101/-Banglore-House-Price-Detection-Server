@@ -1,5 +1,4 @@
 Flask
 Gunicorn
-pickle
 json
 numpy
